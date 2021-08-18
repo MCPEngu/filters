@@ -1,3 +1,6 @@
+! 2021-08-05 https://superuser.com
+superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
 facebook.com##div[id^=hyperfeed_story_id_]:has(span[data-ft="{\"tn\":\"k\"}"]):not(:has([data-content="1"])):not(:has([data-content="2"])):not(:has([data-content="3"])):not(:has([data-content="4"])):not(:has([data-content="5"])):not(:has([data-content="6"])):not(:has([data-content="7"])):not(:has([data-content="8"])):not(:has([data-content="9"])):not(:has([data-content="w"]))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(a:has-text(/^S[a-zA-Z0-9]*p[a-zA-Z0-9]*o[a-zA-Z0-9]*n[a-zA-Z0-9]*s[a-zA-Z0-9]*o[a-zA-Z0-9]*r[a-zA-Z0-9]*e[a-zA-Z0-9]*d/))
 facebook.com###facebook div[role="feed"] div > span > span > a > span > span[aria-label="Sponsored"]:upward(div[role="feed"] > div)
@@ -76,18 +79,6 @@ www.facebook.com##.kr520xx4.pmk7jnqg.qp9yad78.j34wkznp > .j83agx80.du4w35lb.l9j0
 ! 2021-08-04 https://vanmaulop9.wordpress.com
 ||vanmaulop9.files.wordpress.com/2011/10/wallcoocombi435ho3.jp*$image
 
-! 2021-08-04 https://www.facebook.com
-www.facebook.com##.sj5x9vvc > .aodizinl.e5nlhep0.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .tgvbjcpo.buofh1pr.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .dati1w0a.hv4rvrfc.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .irj2b8pg.ew0dbk1b.cbu4d94t.j83agx80 > .knvmm38d.qzhwtbm6 > .oo9gr5id.lrazzd5p.g1cxx5fr.a5q79mjw.iv3no6db.c8b282yb.mau55g9w.fe6kdd0r.d9wwppkn.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .jeutjz8y.btwxx1t3.owycx6da.bp9cbjyn.i1fnvgqd.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .buofh1pr.rj1gh0hx.hpfvmrgz.d2edcug0.g5gj957u.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .hpfvmrgz.d2edcug0.lzcic4wl.p1ri9a11.l94mrbxd.gmql0nx0 > .m9osqain.lrazzd5p.g1cxx5fr.a5q79mjw.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
-www.facebook.com##.gs1a9yip.j83agx80.btwxx1t3.owycx6da.jifvfom9.dlv3wnog.rl04r1d5.ni8dbmo4.stjgntxs.jbae33se.cxgpxx05.l9j0dhe7
-www.facebook.com##.m9osqain.m7msyxje.tmrshh9y.m7zwrmfr.taijpn5t.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.spb7xbtv.bkmhp75w.emlxlaya.s45kfl79.bp9cbjyn.p8dawk7l.abiwlrkh.l9j0dhe7.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.j83agx80.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.hn33210v.oajrlxb2
-www.facebook.com##.k4urcfbm.taijpn5t.tv7at329.btwxx1t3.qmr60zad.inkptoze.qlfml3jp.e72ty7fz.bp9cbjyn.p8dawk7l.abiwlrkh.l9j0dhe7.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.tw6a2znq.qt6c0cv9.d1544ag0.jb3vyjys.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.j83agx80.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.tdjehn4e.oajrlxb2 > .oo9gr5id.lrazzd5p.a3bd9o3v.jq4qci2q.iv3no6db.c8b282yb.mau55g9w.fe6kdd0r.d9wwppkn.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
-www.facebook.com##.k4urcfbm.taijpn5t.tv7at329.btwxx1t3.qmr60zad.inkptoze.qlfml3jp.e72ty7fz.bp9cbjyn.p8dawk7l.abiwlrkh.l9j0dhe7.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.tw6a2znq.qt6c0cv9.d1544ag0.jb3vyjys.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.j83agx80.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.tdjehn4e.oajrlxb2
-www.facebook.com##.bx45vsiw.be9z9djy.rek2kq2y.stjgntxs.ni8dbmo4.fer614ym.dp1hu0rb.rirtxc74.pad24vr5.qbu88020.o387gat7.du4w35lb.lpgh02oy.rq0escxv > .dp1hu0rb.qowsmv63.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .k4xni2cv.c3g1iek1.kh7kg01d.r57mb794.l56l04vs.tgvbjcpo.g5gj957u.buofh1pr.d8ncny3e.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.du4w35lb.l9j0dhe7.eg9m0zos.ni8dbmo4.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs.q5bimw55 > .l9j0dhe7.buofh1pr.cbu4d94t.j83agx80
-www.facebook.com##.bx45vsiw > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .q676j6op.qypqp5cg.taijpn5t.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.spb7xbtv.bkmhp75w.emlxlaya.s45kfl79.bp9cbjyn.p8dawk7l.abiwlrkh.l9j0dhe7.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.j83agx80.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.tdjehn4e.oajrlxb2
-www.facebook.com##.sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv > .discj3wi.hv4rvrfc.ihqw7lf3.dati1w0a
-www.facebook.com##.jbae33se.hv4rvrfc.dati1w0a.discj3wi
-www.facebook.com##.f7vcsfb0.fjf4s8hc.k3eq2f2k
-www.facebook.com##.oo9gr5id.hnhda86s.f530mmz5.o0t2es00.hrzyx87i.c8b282yb.mau55g9w.fe6kdd0r.ns63r2gh.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0
 
 ! 2021-08-05 https://vietjack.com
 ||www.youtube.com/embed/ieCkGJwl-s8$subdocument
@@ -100,3 +91,25 @@ www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-render
 
 ! 2021-08-09 http://www.nettruyenvip.com
 ||s.nettruyenvip.com/data/sites/1/banner/789club.jpg$image
+
+! 2021-08-13 https://www.tienichmaytinh.net
+www.tienichmaytinh.net##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
+www.tienichmaytinh.net##.active.chp_ads_blocker-overlay
+
+! 2021-08-16 https://diendan.hocmai.vn
+||diendan.hocmai.vn/attachments/upload_2021-8-5_21-38-12-png.178950/$image
+||blog.hocmai.vn/wp-content/uploads/2021/08/Dong_long_Viet_Nam.gif$image
+diendan.hocmai.vn###post-3507465 > .primaryContent.messageInfo > .ugc.messageText.signature.baseHtml
+
+! 2021-08-16 https://hoc247.net
+||www.youtube.com/embed/pWpjU-C-m4E$subdocument
+hoc247.net##blockquote
+hoc247.net##.videoWrapper169
+
+! 2021-08-16 https://diendan.hocmai.vn
+diendan.hocmai.vn###post-3507653 > .primaryContent.messageInfo > .ugc.messageText.signature.baseHtml
+||xbook.vn/wp-content/uploads/2020/09/780x90-L%E1%BB%9Bp-10.png$image
+
+! 2021-08-18 http://baivanmau.net
+||img.baivanmau.net/uploads/2019/07/06/van-hoc-dan-gian_033425647.jpg$image
+
