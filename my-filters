@@ -1,77 +1,8 @@
 ! 2021-08-05 https://superuser.com
 superuser.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 
-facebook.com##div[id^=hyperfeed_story_id_]:has(span[data-ft="{\"tn\":\"k\"}"]):not(:has([data-content="1"])):not(:has([data-content="2"])):not(:has([data-content="3"])):not(:has([data-content="4"])):not(:has([data-content="5"])):not(:has([data-content="6"])):not(:has([data-content="7"])):not(:has([data-content="8"])):not(:has([data-content="9"])):not(:has([data-content="w"]))
-facebook.com##div[data-pagelet^="FeedUnit"]:has(a:has-text(/^S[a-zA-Z0-9]*p[a-zA-Z0-9]*o[a-zA-Z0-9]*n[a-zA-Z0-9]*s[a-zA-Z0-9]*o[a-zA-Z0-9]*r[a-zA-Z0-9]*e[a-zA-Z0-9]*d/))
-facebook.com###facebook div[role="feed"] div > span > span > a > span > span[aria-label="Sponsored"]:upward(div[role="feed"] > div)
-facebook.com###facebook div[role="feed"] div > span > span > a > span[aria-label="Sponsored"]:upward(div[role="feed"] > div)
-www.facebook.com##div[id^=hyperfeed_story_id_]:has(a[role^=button]:has(> span:has-text(/S/i):has-text(p):has-text(o):has-text(n):has-text(r):has-text(e):has-text(d):not(:has-text(0)):not(:has-text(1)):not(:has-text(2)):not(:has-text(3)):not(:has-text(4)):not(:has-text(5)):not(:has-text(6)):not(:has-text(7)):not(:has-text(8)):not(:has-text(9))))
-facebook.com###facebook div[role="feed"] div > span > span > a > span[aria-label="Bài viết đề xuất"]:upward(div[role="feed"] > div)
-facebook.com###facebook div[role="feed"] div > span > span > a > span[aria-label="Bài viết đề xuất"]:upward(div[role="feed"] > div)
-facebook.com###facebook div[role="feed"] div > span > span > a > span[aria-label="Recommended Post"]:upward(div[role="feed"] > div)
-facebook.com###facebook div[role="feed"] div > span > span > a > span[aria-label="Recommended Post"]:upward(div[role="feed"] > div)
-www.facebook.com##.sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv > .ni8dbmo4.stjgntxs > div > .du4w35lb.l9j0dhe7.rq0escxv > .cxgpxx05.sj5x9vvc.sv5sfqaa.obtkqiv7.du4w35lb.l9j0dhe7.rq0escxv > .tu18w1b4.cxgpxx05.sj5x9vvc.oygrvhab.rq0escxv.qan41l3s.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.du4w35lb.l9j0dhe7.stjgntxs.d76ob5m9.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs.q5bimw55 > .l9j0dhe7.buofh1pr.btwxx1t3.j83agx80
-www.facebook.com##.buofh1pr.tkr6xdv7 > .bp9cbjyn.j83agx80.i1fnvgqd
-facebook.com##:xpath(//div[starts-with(@id, 'pagelet') and (.//a[.='Sponsored'])]  )
-facebook.com###pagelet_ego_pane
-facebook.com###pagelet_video_home_watch_list_rhc
-facebook.com##div[id^=hyperfeed_story_id_] .userContentWrapper div:has-text(/Suggested Events|Suggested for You/)
-facebook.com##div[id^=hyperfeed_story_id_] .userContentWrapper div:has-text(/Recommended Post/)
-facebook.com##.userContentWrapper:if(span:matches-css-after(content: "Suggested post";))
-facebook.com##.userContentWrapper:if(span:matches-css-after(content: "Recommended Post";))
-facebook.com###pagelet_marketplace_recently_viewed_rhc
-facebook.com###pagelet_ego_contextual_group
-facebook.com##div[data-pagelet^="FeedUnit"]:has-text(/Suggested Events|Suggested for You/)
-facebook.com##div[data-pagelet^="FeedUnit"]:has-text(/Suggested Events|Suggested for You/)
-facebook.com##div[data-pagelet^="FeedUnit"]:has-text(/Recommended Post/)
-facebook.com##div[data-pagelet="FeedUnit_{n}"]:has-text(/Suggested Events|Suggested for You/)
-facebook.com##div[data-pagelet="FeedUnit_{n}"]:has-text(/Recommended Post/)
-facebook.com##div[data-pagelet^="FeedUnit_"]:has(a[aria-label="Sponsored"])
-facebook.com##div[data-pagelet^="FeedUnit_"]:has(a[aria-label="Recommended Post"])
-facebook.com##div[data-pagelet^="FeedUnit"]:has(span:has-text(/Sponsored/):not(:has-text(/1|2|3|4|5|6|7|8|9|w/)))
-facebook.com##div[data-pagelet^="FeedUnit"]:has(span:has-text(/Recommended Post/):not(:has-text(/1|2|3|4|5|6|7|8|9|w/)))
-facebook.com##div[data-pagelet^="FeedUnit_"]:has([role="link"]:has(> span > span:matches-css(position: relative):has-text(S)))
-facebook.com##.cxgpxx05 > div > span > div > .l9j0dhe7
-facebook.com###pagelet_growth_expanding_cta
-facebook.com,facebookcorewwwi.onion##._5hn6
-facebook.com,facebookcorewwwi.onion##.generic_dialog_modal.pop_dialog
-m.facebook.com,touch.facebook.com,m.beta.facebook.com,touch.beta.facebook.com,m.facebookcorewwwi.onion###mobile_login_bar
-m.facebook.com,touch.facebook.com,m.beta.facebook.com,touch.beta.facebook.com,m.facebookcorewwwi.onion###u_0_25._4b-b
-www.facebook.com##._3obd
-www.facebook.com##._3ob9
-www.yelp.com##li.border-color--default__373c0__2oFDT.lemon--li__373c0__1r9wz:nth-of-type(2) > .border-color--default__373c0__2oFDT.u-padding-b3.u-padding-t3.lemon--div__373c0__1mboc
-www.yelp.com##li.border-color--default__373c0__2oFDT.lemon--li__373c0__1r9wz:nth-of-type(1) > .border-color--default__373c0__2oFDT.lemon--div__373c0__1mboc > .border-color--default__373c0__2oFDT.u-padding-b1.u-padding-t1.lemon--div__373c0__1mboc
-www.yelp.com##li.border-color--default__373c0__2oFDT.lemon--li__373c0__1r9wz:nth-of-type(3) > .border-color--default__373c0__2oFDT.border--top__373c0__19Owr.u-padding-b3.u-padding-t3.lemon--div__373c0__1mboc
-www.yelp.com##li.border-color--default__373c0__2oFDT.lemon--li__373c0__1r9wz:nth-of-type(4) > .border-color--default__373c0__2oFDT.border--top__373c0__19Owr.u-padding-b3.u-padding-t3.lemon--div__373c0__1mboc
-duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
-duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
-duckduckgo.com/d2654.js
-duckduckgo.com/util/u372.js
-duckduckgo.com/locale/en_US/duckduckgo14.js
-duckduckgo.com/lib/l113.js
-drivetribe.com##.hyBTKR.sc-DNdyV
-drivetribe.com##.fnrkLU.sc-ipZHIp
-drivetribe.com##.kxTRAT.sc-cqPOvA
-drivetribe.com##.bbpyed.sc-cqPOvA
-drivetribe.com##.PuJAk.sc-hwcHae
-drivetribe.com##.dfEzpW.sc-hwcHae
-https://cdn.taboola.com/libtrc/weatherbug-weatherbug/loader.js
-https://acdn.adnxs.com/ast/ast.js
-https://polyfill.io/v3/polyfill.min.js?flags=gated
-https://content.jwplatform.com/libraries/2K0cYisN.js
-https://rhetoricalloss.com/v2/0/lpvJm3_RkcS-vr_qgSHMbYB-jcbRkH2oNRB2URpg6t2W3jP_TPy9Na4D7qHs5MdytwG
-
 ! 2021-07-27 https://mastransky.wordpress.com
 mastransky.wordpress.com##.noskim.marketing-bar
-
-! 2021-08-03 https://www.facebook.com
-www.facebook.com##.sjgh65i0 > .k4urcfbm.l9j0dhe7.j83agx80 > .sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv > .k4urcfbm
-www.facebook.com##.sbcfpzgs.stjgntxs.ni8dbmo4.k4urcfbm.nwvqtn77.fbipl8qg.m5lcvass.io0zqebd.hybvsw6c.du4w35lb.l9j0dhe7.rq0escxv > .cxgpxx05.sj5x9vvc
-www.facebook.com##.bo76ibdq.j83agx80.lhclo0ds.qypqp5cg.kwzhilbh.n1l5q3vz.ni8dbmo4.stjgntxs.cxgpxx05.k4urcfbm
-www.facebook.com##.j83agx80.cbu4d94t.buofh1pr.sn7ne77z > .buofh1pr > div > ul > li > div > .l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.a8c37x1j.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .scb9dxdr.dflh9lhu.btwxx1t3.bp9cbjyn.du4w35lb.l9j0dhe7.jb3vyjys.qt6c0cv9.hpfvmrgz.nnctdnn4.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4
-www.facebook.com##.buofh1pr > div > div > .l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.a8c37x1j.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .scb9dxdr.dflh9lhu.btwxx1t3.bp9cbjyn.du4w35lb.l9j0dhe7.jb3vyjys.qt6c0cv9.hpfvmrgz.nnctdnn4.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4
-www.facebook.com##.pfnyh3mw.discj3wi.hv4rvrfc.ihqw7lf3.dati1w0a
-www.facebook.com##.kr520xx4.pmk7jnqg.qp9yad78.j34wkznp > .j83agx80.du4w35lb.l9j0dhe7.rq0escxv
 
 ! 2021-08-04 http://baivanmau.net
 ||baivanmau.net/uploads/2017/12/15/truyen-kieu-duoc-nguyen-du-van-dung-thanh-ngu-1-cach-tai-tin_012343.jpg$image
@@ -79,17 +10,7 @@ www.facebook.com##.kr520xx4.pmk7jnqg.qp9yad78.j34wkznp > .j83agx80.du4w35lb.l9j0
 ! 2021-08-04 https://vanmaulop9.wordpress.com
 ||vanmaulop9.files.wordpress.com/2011/10/wallcoocombi435ho3.jp*$image
 
-
-! 2021-08-05 https://vietjack.com
-||www.youtube.com/embed/ieCkGJwl-s8$subdocument
-||www.youtube.com/embed/ieCkGJwl-s8$subdocument
-vietjack.com##p:nth-of-type(4)
-vietjack.com##.middle-col.col-md-7 > p
-
-! 2021-08-08 https://www.youtube.com
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
-
-! 2021-08-09 http://www.nettruyenvip.com
+! 2021-08-09 http://www.nettruyenpro.com
 ||s.nettruyenvip.com/data/sites/1/banner/789club.jpg$image
 
 ! 2021-08-13 https://www.tienichmaytinh.net
@@ -113,3 +34,114 @@ diendan.hocmai.vn###post-3507653 > .primaryContent.messageInfo > .ugc.messageTex
 ! 2021-08-18 http://baivanmau.net
 ||img.baivanmau.net/uploads/2019/07/06/van-hoc-dan-gian_033425647.jpg$image
 
+! 2021-11-8 https://facebook.com
+facebook.com##div[data-pagelet^="FeedUnit"]:has(a[role^=link]:has(> span > span:matches-css(position: relative):has-text(S)))
+facebook.com##div[data-pagelet^="FeedUnit"]:has(a[role^=link]:has(> span > span > span:matches-css(position: relative):has-text(S):has(> span:matches-css(position: relative):has-text(p))))
+facebook.com##div[data-pagelet^="FeedUnit"]:has(a[role^=link]:has(> span > span > span > span:matches-css(position: relative):has-text(S)))
+facebook.com##div[data-pagelet^="FeedUnit"]:has(div[role^=button]:has-text(Paid for by))
+facebook.com##div[class^=l9j0dhe7]:has(> div > div > div > div > div > h3 > span > span > span > span:matches-css(position: relative):has-text(S))
+facebook.com##div[class^=l9j0dhe7]:has(> div > div > div > div > div > h3 > span > span > span > span > span:matches-css(position: relative):has-text(S))
+facebook.com##div[data-pagelet^=FeedUnit_]:has-text(Sponsored)
+facebook.com##div[data-pagelet^=FeedUnit_]:has(div[role=article] div[style^=border-radius] span[dir=auto] a[aria-label=Sponsored])
+facebook.com##[role="feed"] span[id] a[href="#"]>span>span, [role="feed"] span[id] a[href="#"]>span>b:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div):style(border: 8px dotted yellow !important)
+facebook.com##[role="feed"] span[id] a[href="#"]>span>span, [role="feed"] span[id] a[href="#"]>span>b:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div)
+facebook.com##div[class=l9j0dhe7]:has(h3 span:matches-css(position: relative):has-text(/^S/) > span:matches-css(position: relative):has-text(/^p$/))
+facebook.com##[role="feed"]>div:has(div[role^=button]:has-text(Paid for by))
+facebook.com##div[data-pagelet^="FeedUnit"]:has(a[role^=link]:has(> span > span > span:matches-css(position: relative):has-text(S):has(> span:matches-css(position: relative):has-text(p)):not(:has-text(1)):not(:has-text(2)):not(:has-text(3)):not(:has-text(4)):not(:has-text(5)):not(:has-text(6)):not(:has-text(7)):not(:has-text(8)):not(:has-text(9)):not(:has-text(w))))
+facebook.com##[role="feed"]>div:has-text(/^(Suggested|Recommended)/)
+facebook.com##div[data-pagelet^="FeedUnit"]:has-text(/Suggested Events|Suggested for you/)
+facebook.com##div[data-pagelet^="FeedUnit"]:has-text(/Sponsored/)
+facebook.com##[role="feed"]>div:has-text(/^(Sponsored)/)
+
+#Block Seen Messenger (doesn't work)
+
+||facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+||messenger.com/ajax/mercury/change_read_status.php$xmlhttprequest
+https://www.facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+https://www.messenger.com/ajax/mercury/change_read_status.php$xmlhttprequest
+https://www.facebook.com/ajax/mercury/delivery_receipts.php$xmlhttprequest
+https://www.messenger.com/ajax/mercury/delivery_receipts.php$xmlhttprequest
+https://www.facebook.com/ajax/notifications/mark_read.php$xmlhttprequest
+https://www.messenger.com/ajax/notifications/mark_read.php$xmlhttprequest
+https://www.facebook.com/ajax/mercury/mark_seen.php$xmlhttprequest
+https://www.messenger.com/ajax/mercury/mark_seen.php$xmlhttprequest
+https://www.facebook.com/ajax/mercury/unread_threads.php$xmlhttprequest
+https://www.messenger.com/ajax/mercury/unread_threads.php$xmlhttprequest
+/ajax/mercury/change_read_status.php$domain=facebook.com
+||facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+||facebook.com/ajax/mercury/change_read_status.php$xhr,important
+||facebook.com/ajax/mercury/delivery_receipts.php$xhr,important
+||messenger.com/ajax/mercury/change_read_status.php$xhr,important
+||messenger.com/ajax/mercury/delivery_receipts.php$xhr,important
+
+! Facebook Messaging Privacy Aware (is typing, seen message)
+/change_read_status.php$important,domain=facebook.*|messenger.*
+/mark_seen.php$important,domain=facebook.*|messenger.*
+/typ.php$important,domain=facebook.*|messenger.*
+/delivery_receipts.php$important,domain=facebook.*|messenger.*
+
+! 2021-09-12 https://hoc247.net
+||hoc247.net/image/banners/14_1631286051.png$image
+hoc247.net###boxmsgthongbaopopup
+
+! 2021-09-14 https://bongda.cakhia6.tv
+||i.imgur.com/E2X8NQl.gif$image
+||i.imgur.com/5BoXqlA.gif$image
+||703531862.vws.vegacdn.vn/template2/user/img/Background_op.jpg$image
+bongda.cakhia6.tv###chatBoxStatus
+||703531862.vws.vegacdn.vn/template2/user/img/Background_op.jpg$image
+||i.imgur.com/kyV4ODB.gif$image
+||i.imgur.com/E2X8NQl.gif$image
+||703531862.vws.vegacdn.vn/template2/user/img/Background_op.jpg$image
+bongda.cakhia6.tv##.hide-mobi.adHTML3.col-md-12
+bongda.cakhia6.tv##.col-md-12.order-lg-9.col-lg-2
+bongda.cakhia6.tv##.btnOnly.text-right > .btn-betting.btn-default
+bongda.cakhia6.tv##.adHTML3.mainnav-tab-1.info-match-detail.match-detail > [href^="https://www.ae9888.com/agent/signup"]
+bongda.cakhia6.tv##.adHTML3.mainnav-tab-1.info-match-detail.match-detail > [href^="https://www.fb88aff.com/CreativeBanner/Track"]
+||703531862.vws.vegacdn.vn/template2/logoplayer3.gif$image
+
+! 2021-10-16 https://playmt.fastlycdn.xyz
+playmt.fastlycdn.xyz##[href="https://xoilac1.tv/img/ONE88PLAY"]
+playmt.fastlycdn.xyz##[href="https://mitom1.tv/img/SINplayer"]
+playmt.fastlycdn.xyz##.a-v9.boxBot
+playmt.fastlycdn.xyz##[href="https://mitom1.tv/img/FCBPLAY"]
+
+cungthi.online##script:inject(bab-defuser.js)
+
+! 2021-11-06 https://xoilac1.com
+xoilac1.com##.scroll
+xoilac1.com##.pl-lg-0.col-lg-3.col-12.player__right
+
+! 2021-11-06 https://playmt.fastlycdn.xyz
+playmt.fastlycdn.xyz##[href="https://mitom1.tv/img/ONE88PLAY"]
+playmt.fastlycdn.xyz##.a-v9.boxTop
+
+! 2021-11-07 https://mitom1.tv
+mitom1.tv##.d-none.d-lg-flex.wrap-heading-box > [href="/img/M88REAL"]
+mitom1.tv##.player__right.play_main_right
+
+! 2021-11-07 https://rakhoi.tv
+rakhoi.tv##.content-modal > .adHTML2 > [href] > [src]
+rakhoi.tv##.close-modal
+rakhoi.tv##div.hide-mobi.adHTML2 > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/ZCnc3gg.gif"]
+rakhoi.tv##.slide-bar-top-live-hide-mobi
+rakhoi.tv##.col-md-12.order-lg-3.col-lg-8 > div.adHTML2 > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/ZCnc3gg.gif"]
+rakhoi.tv##.container-banner > .adHTML2 > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/ZCnc3gg.gif"]
+rakhoi.tv##.close-modal-bottom
+rakhoi.tv##.modal-ads
+rakhoi.tv##.slide-bar-right > .adHTML2
+rakhoi.tv##.slide-bar-right > .close-banner
+rakhoi.tv##.slide-bar-left > .adHTML2
+rakhoi.tv##.slide-bar-left > .close-banner
+
+! 2021-11-07 https://live.rakhoi.tv
+live.rakhoi.tv##.slide-bar-right-live > .adHTML3 > a[href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/ctnl7ZI.gif"]
+live.rakhoi.tv##.slide-bar-right-live > .close-banner
+live.rakhoi.tv##.container-banner > .adHTML3
+live.rakhoi.tv##.slide-bar-left-live > .adHTML3 > a[href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/ctnl7ZI.gif"]
+live.rakhoi.tv##.slide-bar-left-live > .close-banner
+live.rakhoi.tv##.adHTML3.mainnav-tab-1.info-match-detail.match-detail > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/ZCnc3gg.gif"]
+live.rakhoi.tv##.adHTML3.ct-banner-all.container > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/ZCnc3gg.gif"]
+live.rakhoi.tv##.hide-mobi.adHTML3.col-md-12 > [href] > [src]
+live.rakhoi.tv##.hide-mobi.topchatdesktop > .adHTML3 > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/AhWI0e8.gif"]
+live.rakhoi.tv##div.adHTML3.hide-mobi.mg-bottom-20.bg-fff.wrap-content-box-chat > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/AhWI0e8.gif"]
