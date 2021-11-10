@@ -11,7 +11,7 @@ mastransky.wordpress.com##.noskim.marketing-bar
 ||vanmaulop9.files.wordpress.com/2011/10/wallcoocombi435ho3.jp*$image
 
 ! 2021-08-09 http://www.nettruyenpro.com
-||s.nettruyenvip.com/data/sites/1/banner/789club.jpg$image
+||s.nettruyenpro.com/data/sites/1/banner/789club.jpg$image
 
 ! 2021-08-13 https://www.tienichmaytinh.net
 www.tienichmaytinh.net##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
@@ -106,8 +106,6 @@ playmt.fastlycdn.xyz##[href="https://mitom1.tv/img/SINplayer"]
 playmt.fastlycdn.xyz##.a-v9.boxBot
 playmt.fastlycdn.xyz##[href="https://mitom1.tv/img/FCBPLAY"]
 
-cungthi.online##script:inject(bab-defuser.js)
-
 ! 2021-11-06 https://xoilac1.com
 xoilac1.com##.scroll
 xoilac1.com##.pl-lg-0.col-lg-3.col-12.player__right
@@ -115,12 +113,37 @@ xoilac1.com##.pl-lg-0.col-lg-3.col-12.player__right
 ! 2021-11-06 https://playmt.fastlycdn.xyz
 playmt.fastlycdn.xyz##[href="https://mitom1.tv/img/ONE88PLAY"]
 playmt.fastlycdn.xyz##.a-v9.boxTop
+playmt.fastlycdn.xyz##.a-v9.boxBot
+playmt.fastlycdn.xyz##.odds-button
+playmt.fastlycdn.xyz##[src="https://cdn.bongdadem.net/2020/11/4515451245464.gif"]
+playmt.fastlycdn.xyz##[src="https://cdn.bongdadem.net/2020/11/74841545452454521.gif"]
+playmt.fastlycdn.xyz##.close-ads
+
+! 2021-10-16 https://play90p.fastlycdn.xyz
+play90p.fastlycdn.xyz##[href^="https://dabet.vip/khuyen-mai/"]
+play90p.fastlycdn.xyz##[href^="https://11bet.us/saleoff/"]
+play90p.fastlycdn.xyz##.a-v9.boxBot
+play90p.fastlycdn.xyz##.odds-button
+mitom1.tv###wap_bottombanner
 
 ! 2021-11-07 https://mitom1.tv
 mitom1.tv##.d-none.d-lg-flex.wrap-heading-box > [href="/img/M88REAL"]
 mitom1.tv##.player__right.play_main_right
+mitom1.tv##div.col-6:nth-of-type(2)
+mitom1.tv##div.col-6:nth-of-type(1)
+mitom1.tv##.custom-html-widget.textwidget > [href="https://mitom1.tv/img/M88REAL"] > .lazyloaded.size-full.wp-image-2109.alignnone
+mitom1.tv##[href="https://mitom1.tv/img/SOLARBET"] > .lazyloaded.size-full.wp-image-2109.alignnone
+mitom1.tv##div.d-lg-flex.d-none.col-sm-6.col-lg-6.matches__item:nth-of-type(7)
+mitom1.tv##div.d-lg-flex.d-none.col-sm-6.col-lg-6.matches__item > .textwidget
+mitom1.tv##.position-relative.d-inline-block > .lazyloaded.size-full.wp-image-2109.alignnone
+mitom1.tv##[href="https://mitom1.tv/img/Payasec"] > .lazyloaded.size-full.wp-image-2109.alignnone
+mitom1.tv##.d-lg-block.d-none > .custom-html-widget.textwidget > [href] > .lazyloaded.size-full.wp-image-2109.alignnone
+mitom1.tv##.col-md-9.player__header
+mitom1.tv##div.col-6:nth-of-type(3)
+mitom1.tv##.mt-1.d-lg-flex.d-none.row
+mitom1.tv##.match-detail__offer.d-lg-block.d-none.col-md-4
 
-! 2021-11-07 https://rakhoi.tv
+! 2021-11-07 https://rakhoi.tv (Chặn banner và ads nhà cái)
 rakhoi.tv##.content-modal > .adHTML2 > [href] > [src]
 rakhoi.tv##.close-modal
 rakhoi.tv##div.hide-mobi.adHTML2 > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/ZCnc3gg.gif"]
@@ -145,3 +168,8 @@ live.rakhoi.tv##.adHTML3.ct-banner-all.container > [href^="https://www.fb88aff.c
 live.rakhoi.tv##.hide-mobi.adHTML3.col-md-12 > [href] > [src]
 live.rakhoi.tv##.hide-mobi.topchatdesktop > .adHTML3 > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/AhWI0e8.gif"]
 live.rakhoi.tv##div.adHTML3.hide-mobi.mg-bottom-20.bg-fff.wrap-content-box-chat > [href^="https://www.fb88aff.com/CreativeBanner/Track"] > [src="https://i.imgur.com/AhWI0e8.gif"]
+
+! 2021-11-10 https://my.vnexpress.net
+my.vnexpress.net##.mfp-iframe-holder.mfp-s-ready.mfp-container
+my.vnexpress.net##.mfp-ready.mfp-myvne.mfp-with-zoom.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+my.vnexpress.net##.mfp-ready.mfp-myvne.mfp-with-zoom.mfp-bg
